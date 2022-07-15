@@ -1,3 +1,32 @@
 .blue-background {
-    background-color: lightblue;
-  }
+  background-color: lightblue;
+}
+
+.darkblue-background {
+  background-color: darkblue;
+}
+
+.red-background {
+  background-color: rgb(203, 4, 4);
+}
+.brown-background {
+  background-color: rgb(83, 54, 54);
+}
+.yellow-background {
+  background-color: rgb(201, 201, 4);
+}
+.green-background {
+  background-color: rgb(6, 160, 6);
+}
+.purple-background {
+  background-color: purple;
+}
+.orange-background {
+  background-color: orange;
+}
+.lightgreen-background {
+  background-color: rgb(191, 231, 214);
+}
+.black-background {
+  background-color: rgb(0, 0, 0);
+}

@@ -1,0 +1,23 @@
+.one-background {
+  background-color: grey;
+}
+
+.two-background {
+    background-color: rgb(225, 156, 67);
+  }
+
+  .three-background {
+    background-color: rgb(90, 202, 99);
+  }
+
+  .four-background {
+    background-color: rgb(41, 108, 153);
+  }
+
+  .five-background {
+    background-color: rgb(98, 52, 123);
+  }
+
+  .ten-background {
+    background-color: rgb(158, 21, 21);
+  }

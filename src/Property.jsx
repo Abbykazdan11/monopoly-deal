@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css'
 import './Property.css';
 import {Card, ListGroup} from 'react-bootstrap';
 
@@ -18,7 +19,7 @@ export function Property(props) {
     return (
       <Card border="primary" style={{ width: '15rem' }}>
         <Card.Body>
-          <Card.Title className={backgroundStyle}>{props.title}</Card.Title>
+          <Card.Title className={`${backgroundStyle} white-text`}>{props.title}</Card.Title>
           <Card.Text>
             My Big Bam
           </Card.Text>
